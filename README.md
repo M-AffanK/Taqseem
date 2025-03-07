@@ -1,4 +1,4 @@
-# Jaga-Allocator-in-Heap
+# Taqseem
 
 A custom C++ heap allocator that replicates `malloc`, `free`, and `realloc` for efficient dynamic memory management.
 
