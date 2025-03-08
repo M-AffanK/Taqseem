@@ -1,5 +1,9 @@
 #include "HA.hpp"
 
+/**
+ * @breif allocates memory for four blocks of different sizes, then frees them 
+ * @prints the amount of free memory
+ */
 int main() {
 	HeapAllocator HA;
 	void* p1 = HA.malloc(100);
