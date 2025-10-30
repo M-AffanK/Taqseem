@@ -1,4 +1,4 @@
-# Taqseem
+# Allocraze
 
 ![square-waves](.github/assets/square-waves.jpg)
 A custom C++ heap allocator that replicates `malloc`, `free`, and `realloc` for efficient dynamic memory management.
